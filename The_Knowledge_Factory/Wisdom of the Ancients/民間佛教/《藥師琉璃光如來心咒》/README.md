@@ -1,5 +1,5 @@
 # 🕉 《藥師琉璃光如來心咒》  
-**Medicine Buddha Hṛdaya Mantra (精要版 / 你提供的传诵版本)**
+**Medicine Buddha Hṛdaya Mantra (精要版)**
 
 ---
 
