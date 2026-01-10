@@ -1,3 +1,8 @@
+# Title
+- Inline Code Explanation with Extra Notes (Beginner Level)
+
+
+  
 # Purpose:
 - Use this when you want the code explained inside the code itself
 - good for learning with explanations + reasoning
