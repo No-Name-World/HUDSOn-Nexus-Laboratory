@@ -11,7 +11,7 @@
 ```
 Please explain this in SIMPLE ENGLISH.
 
-❌ Do NOT explain the code line by line.
+Do NOT explain the code line by line.
 
 Explain it like I am a beginner:
 1. What these files/classes are (conceptually)
