@@ -1,5 +1,4 @@
-# Title
-- Conceptual Explanation (No Line-by-Line Code)
+# Title: Conceptual Explanation (No Line-by-Line Code)
 
 
 
