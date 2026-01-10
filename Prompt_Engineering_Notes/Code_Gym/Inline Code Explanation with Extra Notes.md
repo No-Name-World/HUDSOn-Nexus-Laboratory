@@ -1,5 +1,4 @@
-# Title
-- Inline Code Explanation with Extra Notes (Beginner Level)
+# Title: Inline Code Explanation with Extra Notes (Beginner Level)
 
 
   
