@@ -1,13 +1,13 @@
-## Title: Human-Style Simple English Academic Rewriting Prompt
+# Title: Human-Style Simple English Academic Rewriting Prompt
 
 
-## Purpose: 
+# Purpose: 
 - The purpose of this prompt is to rewrite academic text using very simple English while keeping the original meaning, structure, and paragraph length unchanged.
 - It is designed to produce writing that sounds natural and human, similar to how a real student would write, without using complex vocabulary or advanced sentence structures.
 - This prompt helps create clear, fair, and lecturer-ready academic content that avoids robotic or AI-generated writing styles.
 
 
-## Prompt
+# Prompt
 ```
 Hey ChatGPT, I will provide a text later.
 Please rewrite the text by strictly following these rules:
